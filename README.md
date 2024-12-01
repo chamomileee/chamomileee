@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chamomileee
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS, php, MySQL
+- 🌱 I’m currently learning C++, Django, React
 - 💞️ I’m looking to collaborate on anyone who wants to :)
 - 📫 How to reach me: 
       e-mail: roman.borysenko50@gmail.com
